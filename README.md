@@ -1,5 +1,7 @@
 # Steel statistics folium maps
 
+Complete artigle on Medium: https://medium.com/datadriveninvestor/worldwide-steel-production-with-machine-learning-7796b423e2ea
+
 ## Printing Statistics from Production and Market Steel
 Using python to plot production and sales statistics about steel and iron.
 
