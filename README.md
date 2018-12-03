@@ -5,13 +5,13 @@ Using python to plot production and sales statistics about steel and iron.
 
 ### Technical references:
 https://matplotlib.org/examples/color/named_colors.html
-https://www.coordenadas-gps.com/mapa/pais/MX
-https://medium.com/@bobhaffner/folium-markerclusters-and-fastmarkerclusters-1e03b01cb7b1
+<br/>https://www.coordenadas-gps.com/mapa/pais/MX
+<br/>https://medium.com/@bobhaffner/folium-markerclusters-and-fastmarkerclusters-1e03b01cb7b1
 
  
 
 ### References to the statistics:
 http://www.acobrasil.org.br/site/arquivos/estatisticas/
-https://www.worldsteel.org/
-http://comexstat.mdic.gov.br/pt/home
-www.acobrasil.org.br
+<br/>https://www.worldsteel.org/
+<br/>http://comexstat.mdic.gov.br/pt/home
+<br/>www.acobrasil.org.br
